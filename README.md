@@ -22,7 +22,7 @@ Este proyecto es una muestra de una aplicación con Serilog. Se utilizo ``ASP.NE
 Clonar el repositorio.
 
 ```bash
-gh repo clone FernandoCalmet/DOTNET-5-ASPNET-Core-Serilog
+gh repo clone FernandoCalmet/dotnet-5-aspnet-core-serilog
 ```
 
 Ejecutar aplicación.
